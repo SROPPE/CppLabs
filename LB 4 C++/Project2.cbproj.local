@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020.05.16 01:21:35.398,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>2020.05.16 01:21:35.700,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>2020.05.16 01:21:44.825,D:\LB 4 C++\Unit2.h=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.h</Transaction>
+    <Transaction>2020.05.16 01:21:44.825,D:\LB 4 C++\Unit2.cpp=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>2020.05.16 01:21:44.825,D:\LB 4 C++\Unit2.dfm=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.dfm</Transaction>
+    <Transaction>2020.05.16 01:21:48.860,D:\LB 4 C++\Project2PCH1.h=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>2020.05.16 01:21:49.751,D:\LB 4 C++\Project2.cbproj=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2.cbproj</Transaction>
+    <Transaction>2020.05.16 01:23:21.387,=D:\LB 4 C++\Unit1.cpp</Transaction>
+    <Transaction>2020.05.16 01:24:28.354,D:\LB 4 C++\RPN.cpp=D:\LB 4 C++\Unit1.cpp</Transaction>
+    <Transaction>2020.05.16 01:24:28.354,D:\LB 4 C++\RPN.h=D:\LB 4 C++\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
