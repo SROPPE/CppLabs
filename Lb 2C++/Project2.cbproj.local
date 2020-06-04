@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.164,D:\GOVNO 3\Unit1.h=D:\GOVNO 3\Firm.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,D:\GOVNO 3\Unit1.h=D:\GOVNO 3\Candidate.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.785,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.dfm=D:\GOVNO 3\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.272,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2.cbproj=D:\GOVNO 3\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.h=D:\GOVNO 3\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.704,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp=D:\GOVNO 3\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,=D:\GOVNO 3\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.110,D:\GOVNO 3\Unit1.cpp=D:\GOVNO 3\Candidate.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.164,D:\GOVNO 3\Unit1.cpp=D:\GOVNO 3\Firm.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.426,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h=D:\GOVNO 3\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.605,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.615,=D:\GOVNO 3\Unit1.cpp</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Candidate.cpp"/>
+    <File Path="Candidate.cpp"/>
+    <File Path="Candidate.h"/>
+    <File Path="Firm.cpp"/>
+    <File Path="Firm.cpp"/>
+    <File Path="Firm.h"/>
+    <File Path="Project2PCH1.h"/>
+    <File Path="Project2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
