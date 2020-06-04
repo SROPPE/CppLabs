@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.414,=D:\LB 7 C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,D:\LB 7 C++\Unit1.cpp=D:\LB 7 C++\List.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,=D:\LB 7 C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.769,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2.cbproj=D:\LB 7 C++\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.dfm=D:\LB 7 C++\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,D:\LB 7 C++\Unit1.cpp=D:\LB 7 C++\Hashtable.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,=D:\LB 7 C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.092,D:\LB 7 C++\Unit1.cpp=D:\LB 7 C++\Item.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp=D:\LB 7 C++\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.910,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.952,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h=D:\LB 7 C++\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.630,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.588,D:\LB 7 C++\Unit1.h=D:\LB 7 C++\Hashtable.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.092,D:\LB 7 C++\Unit1.h=D:\LB 7 C++\Item.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.260,D:\LB 7 C++\Unit1.h=D:\LB 7 C++\List.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.874,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.h=D:\LB 7 C++\Unit2.h</Transaction>
+  </Transactions>
+</BorlandProject>
