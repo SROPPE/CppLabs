@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.536,=D:\erf\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.767,=D:\erf\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.651,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2.cbproj=D:\erf\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.h=D:\erf\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.604,=D:\erf\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.dfm=D:\erf\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,D:\erf\Unit1.cpp=D:\erf\Ellipse.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,D:\erf\Unit1.cpp=D:\erf\Polygon.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,D:\erf\Unit1.cpp=D:\erf\Phigure.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.770,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h=D:\erf\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.985,D:\erf\Unit1.h=D:\erf\Phigure.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.178,D:\erf\Unit1.h=D:\erf\Polygon.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.638,D:\erf\Unit1.h=D:\erf\Ellipse.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,D:\erf\Ellipse.cpp=D:\erf\Ellip.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.277,D:\erf\Ellipse.h=D:\erf\Ellip.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.217,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp=D:\erf\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.929,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
