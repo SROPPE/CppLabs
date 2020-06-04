@@ -1,0 +1,67 @@
+//---------------------------------------------------------------------------
+
+#ifndef Unit2H
+#define Unit2H
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include <Vcl.ExtCtrls.hpp>
+//---------------------------------------------------------------------------
+enum TDrawingTool {
+	dtLine, dtRectangle, dtEllipse, dtRoundRect
+};
+
+class TForm2: public TForm {
+__published: // IDE-managed Components
+	TButton *Ellipse;
+	TImage *Image1;
+
+
+	void __fastcall EllipseClick(TObject *Sender);
+	void __fastcall Image1MouseDown(TObject *Sender, TMouseButton Button, TShiftState Shift,
+          int X, int Y);
+	void __fastcall Image1MouseMove(TObject *Sender, TShiftState Shift, int X, int Y);
+	void __fastcall Image1MouseUp(TObject *Sender, TMouseButton Button, TShiftState Shift,
+          int X, int Y);
+	void __fastcall FormCreate(TObject *Sender);
+
+
+private: // User declarations
+	 void __fastcall DrawFigure(int X, int Y);
+public: // User declarations
+	__fastcall TForm2(TComponent* Owner);
+	TDrawingTool DrawingTool; // field to hold current tool
+};
+class Ellipse
+ {
+	 public:
+	 void EllipseFlexLeft(TImage *Image1,int &CurX1, int &CurY1, int &CurX2,int &CurY2)
+	  {
+		 Image1->Canvas->Rectangle(0,0,1000,1000);
+		 Image1->Canvas->Ellipse(CurX1,CurY1,CurX2,CurY2);
+	  }
+	   void EllipseFlexUp(TImage *Image1,int &CurX1, int &CurY1, int &CurX2,int &CurY2)
+	  {
+		 Image1->Canvas->Rectangle(0,0,1000,1000);
+		 Image1->Canvas->Ellipse(CurX1,CurY1,CurX2,CurY2);
+	  }
+	   void EllipseFlexÄàóí(TImage *Image1,int &CurX1, int &CurY1, int &CurX2,int &CurY2)
+	  {
+		 Image1->Canvas->Rectangle(0,0,1000,1000);
+		 Image1->Canvas->Ellipse(CurX1,CurY1,CurX2,CurY2);
+	  }
+		void EllipseFlexRight(TImage *Image1,int &CurX1, int &CurY1, int &CurX2,int &CurY2)
+	  {
+		 Image1->Canvas->Rectangle(0,0,1000,1000);
+		 Image1->Canvas->Ellipse(CurX1,CurY1,CurX2,CurY2);
+	  }
+	 private:
+
+	 protected:
+ };
+//---------------------------------------------------------------------------
+extern PACKAGE TForm2 *Form2;
+//---------------------------------------------------------------------------
+#endif

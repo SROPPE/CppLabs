@@ -1,0 +1,19 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Unit1.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+class Ellipse
+ {
+	 public:
+	 ElipseFlex(int CurX1, int CurY1, int CurX2, CurY2)
+	  {
+
+      }
+	 private:
+
+	 protected:
+ };

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.441,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h=D:\GOVNO\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.531,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2.cbproj=D:\GOVNO\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.dfm=D:\GOVNO\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.246,=D:\GOVNO\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.h=D:\GOVNO\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.392,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp=D:\GOVNO\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.842,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.577,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+  </Transactions>
+</BorlandProject>
