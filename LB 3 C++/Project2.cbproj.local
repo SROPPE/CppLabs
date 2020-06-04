@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.417,=D:\LB 3 C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,D:\LB 3 C++\Unit1.cpp=D:\LB 3 C++\List.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.243,D:\LB 3 C++\Unit1.cpp=D:\LB 3 C++\Student.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.711,=D:\LB 3 C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.700,=D:\LB 3 C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.dfm=D:\LB 3 C++\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.587,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2.cbproj=D:\LB 3 C++\Project2.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,D:\LB 3 C++\Unit1.cpp=D:\LB 3 C++\StudentList.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,=D:\LB 3 C++\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,D:\LB 3 C++\Unit1.cpp=D:\LB 3 C++\Student.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.845,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp=D:\LB 3 C++\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.117,C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h=D:\LB 3 C++\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.545,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.703,D:\LB 3 C++\Student.cpp=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.241,D:\LB 3 C++\Unit1.h=D:\LB 3 C++\StudentList.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.089,D:\LB 3 C++\Unit1.h=D:\LB 3 C++\Student.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,D:\LB 3 C++\Unit1.h=D:\LB 3 C++\List.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.243,D:\LB 3 C++\Unit1.h=D:\LB 3 C++\Student.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.154,C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.h=D:\LB 3 C++\Unit2.h</Transaction>
+  </Transactions>
+</BorlandProject>
