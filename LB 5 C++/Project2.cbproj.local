@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.248,D:\LB 5 C++\Unit2.h=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.768,=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.808,D:\LB 5 C++\Project2PCH1.h=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,D:\LB 5 C++\Unit2.cpp=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.248,D:\LB 5 C++\Unit2.dfm=C:\Program Files (x86)\Embarcadero\Studio\20.0\Unit2.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.457,D:\LB 5 C++\Project2.cbproj=C:\Program Files (x86)\Embarcadero\Studio\20.0\Project2.cbproj</Transaction>
+    <Transaction>2020.05.13 17:47:23.684,=D:\LB 5 C++\New1.h</Transaction>
+    <Transaction>2020.05.13 17:48:43.177,=D:\LB 5 C++\Unit1.cpp</Transaction>
+    <Transaction>2020.05.13 17:51:34.588,=D:\LB 5 C++\File1.h</Transaction>
+    <Transaction>2020.05.13 17:52:14.548,=D:\LB 5 C++\File1.cpp</Transaction>
+    <Transaction>2020.05.13 17:52:26.730,D:\LB 5 C++\Queue.cpp=D:\LB 5 C++\File1.cpp</Transaction>
+    <Transaction>2020.05.13 17:55:56.329,D:\LB 5 C++\Queue.cpp=</Transaction>
+    <Transaction>2020.05.13 17:56:06.260,=D:\LB 5 C++\Unit1.cpp</Transaction>
+    <Transaction>2020.05.13 17:56:14.579,D:\LB 5 C++\Queue.cpp=D:\LB 5 C++\Unit1.cpp</Transaction>
+    <Transaction>2020.05.13 17:56:14.579,D:\LB 5 C++\Queue.h=D:\LB 5 C++\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
